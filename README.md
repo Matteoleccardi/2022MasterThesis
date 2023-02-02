@@ -1,6 +1,7 @@
-# 2022MasterThesis
-Public documents regarding my Master Thesis at Politecnico di Milano:
-*"Deep Learning based Coronary Artery Centerline tracking aimed at Fractional Flow Reserve Prediction from CCTA images"*
+# Deep Learning based Coronary Artery Centerline tracking aimed at Fractional Flow Reserve Prediction from CCTA images
+
+Public documents regarding my Master Thesis at Politecnico di Milano.  
+April 2022.
 
 Here is the final arterial map (a directed graph) obtained from a CCTA image and just 2 seed points, one per erterial branch (left, right):
 
